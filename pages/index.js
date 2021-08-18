@@ -94,7 +94,7 @@ export default function Home() {
       
       <div className="gametype"><b>Game</b>{game}</div>
       <div className="number" id="number">
-        <div style={{fontSize: "3vh", marginBottom: "-5vh", marginTop: "3vh"}}className="text">{text}</div>
+        <div style={{fontSize: "3vh", marginBottom: "-5vh", marginTop: "5vh"}}className="text">{text}</div>
         <div style={{fontWeight: "bold"}} className="number-text">{num}</div>
       </div>
       <div className="called">{called}</div>
